@@ -29,3 +29,4 @@ repos:
           - 'requirements.txt'
           - '--no-hashes'
           - '--no-dev'
+          - "--no-emit-project"
